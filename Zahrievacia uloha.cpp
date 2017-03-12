@@ -1,3 +1,4 @@
+//Milan Linkeš
 #include <stdio.h>
 #include <stdlib.h>
 #define SHORT_INT_BITS 16	
